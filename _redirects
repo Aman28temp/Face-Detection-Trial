@@ -2,4 +2,4 @@
 # These rules will change if you change your site’s custom domains or HTTPS settings
 
 # Redirect default Netlify subdomain to primary domain
-http://face-artemp.netlify.com/* http://face.amaogi.co/:splat 301!
+http://face-artemp.netlify.com/* http://facedetect.amaogi.co/:splat 301!
