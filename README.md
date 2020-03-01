@@ -1,6 +1,6 @@
 # Face-Detection-Trial 
 
-Visit :: https://face-artemp.netlify.com/
+Visit :: face.amaogi.co
 
 Test Face API
 
