@@ -1,6 +1,6 @@
 # Face-Detection-Trial 
 
-Visit :: face.amaogi.co
+Visit :: https://face.amaogi.co
 
 Test Face API
 
